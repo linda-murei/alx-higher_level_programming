@@ -18,11 +18,3 @@ if __name__ == "__main__":
 
     b5 = Base()
     print(b5.id)
-
-guillaume@ubuntu:~/$ ./0-main.py
-1
-2
-3
-12
-4
-guillaume@ubuntu:~/$ 
